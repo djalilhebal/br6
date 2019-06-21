@@ -1,7 +1,7 @@
 {
   "name": "br6",
   "version": "0.0.1",
-  "description": "A simple, Unified English Braille (UEB) Grade 1 library [Old WIP]",
+  "description": "A simple, Unified English Braille (UEB) Grade 1 library [old WIP]",
   "keywords": ["UEB", "braille", "translator"],
   "author": "Djalil Dreamski <dreamski21@gmail.com>",
   "homepage": "https://github.com/dreamski21/br6",
@@ -10,6 +10,7 @@
   "scripts": {
     "test": "node test.js"
   },
+  "dependencies": [],
   "devDependencies": {
     "riteway": "~6.0.3"
   }
